@@ -26,7 +26,7 @@ watch(todos, () => {
 <div class="container py-5">
 <div class="card shadow-lg">
   <div class="card-body">
-    <h1 class="text-center mb-4 text-primary">📝 To-Do List</h1>
+    <h1 class="text-center mb-4 text-primary">📝 BlastList</h1>
     <TodoForm @add-todo="addTodo" />
 
 
